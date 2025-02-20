@@ -1,4 +1,6 @@
 
+import './styles.css'
+
 document.querySelector('#app').innerHTML = `
   <div>
  <h1> Hello World! 🌏 </h1>
@@ -7,4 +9,4 @@ document.querySelector('#app').innerHTML = `
   </div>
 `
 
-setupCounter(document.querySelector('#counter'))
+
