@@ -1,4 +1,5 @@
-import './style.css'
+import 'RenderTest/src/style.css'
+
 
 
 document.querySelector('#app').innerHTML = `
