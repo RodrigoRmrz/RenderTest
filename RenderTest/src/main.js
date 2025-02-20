@@ -1,6 +1,3 @@
-import 'RenderTest/src/style.css'
-
-
 
 document.querySelector('#app').innerHTML = `
   <div>
