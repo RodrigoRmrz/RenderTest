@@ -2,7 +2,6 @@
 
 
 document.querySelector('#app').innerHTML = `
-<link rel="stylesheet" href="styles.css">
   <div>
  <h1> Hello World! 🌏 </h1>
 <br>
